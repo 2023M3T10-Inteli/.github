@@ -9,12 +9,6 @@ Não existir um modelo de predição de riscos para fundos do tipo FIDC.
 
 Prever o risco de FIDCs (Fundo de Investimento em Direitos Creditórios), avaliando a chance de Inadimplência, seja por insuficiência futura ou ausência de provisão. 
 
-
-## 🧩 O público-alvo:
-
-...
-
-
 ## 💻 Modelo Preditivo: 
 
 - Grupo 1 - FIDCA'S
