@@ -12,16 +12,22 @@ Prever o risco de FIDCs (Fundo de Investimento em Direitos Creditórios), avalia
 ## 💻 Modelo Preditivo: 
 
 - Grupo 1 - FIDCA'S
-  - Link do repositório: https://github.com/2023M3T10-Inteli/grupo1
+  - Link do repositório: https://github.com/InteliProjects/2023M3T10-Inteli-grupo1
 
 - Grupo 2 - Poul
-  - Link do repositório: https://github.com/2023M3T10-Inteli/grupo2
+  - Link do repositório: https://github.com/InteliProjects/2023M3T10-Inteli-grupo2
 
 - Grupo 3 - VERUM
-  - Link do repositório: https://github.com/2023M3T10-Inteli/grupo3
+  - Link do repositório: https://github.com/InteliProjects/2023M3T10-Inteli-grupo3
 
 - Grupo 4 - Delfino
-  - Link do repositório: https://github.com/2023M3T10-Inteli/grupo4
+  - Link do repositório: https://github.com/InteliProjects/2023M3T10-Inteli-grupo4
 
 - Grupo 5 - Asimov
-  - Link do repositório: https://github.com/2023M3T10-Inteli/grupo5
+  - Link do repositório: https://github.com/InteliProjects/2023M3T10-Inteli-grupo5
+
+
+
+
+
+
